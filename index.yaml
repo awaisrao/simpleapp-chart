@@ -9,6 +9,6 @@ entries:
     name: simplewebapp
     type: application
     urls:
-    - https://github.com/awaisrao/simplewebapp-0.1.0.tgz
+    - https://awaisrao.github.io/simpleapp-chart/
     version: 0.1.0
 generated: "2022-08-15T11:59:44.227124871Z"
