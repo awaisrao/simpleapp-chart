@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.16.0
+description: A Helm chart for Kubernetes
+name: simplewebapp
+type: application
+version: 0.1.0
+
+...
+files:
+  simplewebapp-0.1.0.tgz: sha256:6aa6a3020fe68e24c215a41e9be6e65b762a711ccd03d2b930ae67a6b2d3c800
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJi+jIGCRAeQwdZP/VMjwAAkiAMAB5aBXaTyp32Duc+kwOnmkh8
+AAHAPJyNfNeWfJA/KGjmpcnDc+3IEfUR0U79K0ZrOY37NF7d2ctvqjqoS3gcVOVm
+5POY5Z+fgL9XXdEMs7cCSvyAVm+jbb99ra8PpYC3JEl4EVbXrYGhk7WizpkZQPlX
+uOTsCLGaoz4Y57HEUSodxLBwDCX2DSKd8mXrSOMCckPspTBWU1nqG+ZydM3ELwcv
+NQVZdQtLZwITLoHadyHni9e0NFqTgjwvGTZ1OwCmg97v5kTOuvpep7vafmHNFveT
++4qq5rCtXK7X6st2jjItpCqalhDc/9ebUoTq3LQsExsJPp+G8A+zZDgBXipfZeSY
+FWLr3+/rMuAlBovEbGhPzqAp43Y+PggLJSHaLVbcvuKFfBWfY3vJPl+g860U/ZFp
+AtdoYED6/Jrg4EAxYNCDjkqA2tMi0LwNhVRUkZXvZy8pT/BtWnLKN8Sexoq48Tmt
+/qNwQtyk7cZgzXeU1ISS5WQ0HzkxUY4JNpC/YZ4yQg==
+=+6b/
+-----END PGP SIGNATURE-----
